@@ -54,4 +54,4 @@ not supported.
 
 Maintainer
 ----------
-bhirsch (Bryan Hirsch), bhirsch@starswithstripes.org
+bhirsch (Bryan Hirsch), bhirsch [AT] starswithstripes [DOT] org
